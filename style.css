@@ -20,6 +20,11 @@ p {
     justify-content: center;
 }
 
+.id {
+    margin-left: 20px;
+    margin-right: 20px;
+    }
+
 body {
-    color: red;
+    background-color: red;
 }
