@@ -1,5 +1,15 @@
 h1 {
     text-align: center;
+    color: yellow;
+}
+
+h2 {
+    text-align: center;
+    color: yellow;
+}
+
+p {
+    color: yellow;
 }
 
 .bruno {
@@ -7,4 +17,8 @@ h1 {
     margin: auto;
     display: flex;
     justify-content: center;
+}
+
+body {
+    color: red;
 }
