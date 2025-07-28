@@ -24,7 +24,14 @@ p {
 .id {
     margin-left: 80px;
     margin-right: 80px;
-    }
+}
+
+.video {
+    text-align: center;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
 
 body {
     background-color: red;
