@@ -1,6 +1,11 @@
-h1 {
+.h11 {
     text-align: center;
     color: yellow;
+}
+
+.h12 {
+    text-align: center;
+    color: white;
 }
 
 h2 {
